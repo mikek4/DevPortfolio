@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+.jumbotron {
+  width: 75%;
+  margin: auto;
+  background-color: #EAEFD3
+}
+
+img {
+  margin-right: 5px;
+}
+
+.proj_items {
+  width: 250px;
+  display: inline-block;
+  height: 188px;
+  border: 2px solid #DCC48E;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+
